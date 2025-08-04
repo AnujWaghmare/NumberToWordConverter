@@ -4,8 +4,6 @@ A full-stack web application that converts numbers into their word representatio
 
 ![Project Screenshot](Screenshot 2025-08-03 022131.png)
 
-> **Note:** Take a screenshot of your running application and place it in a public folder or upload it to GitHub to replace the placeholder link above.
-
 ---
 
 ## ✨ Features

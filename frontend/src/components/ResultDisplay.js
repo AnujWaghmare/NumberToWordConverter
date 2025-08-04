@@ -9,8 +9,10 @@ const ResultDisplay = ({ result }) => (
       {result ? (
         <div className="text-center">
           <p className="text-xl font-bold text-cyber-text leading-relaxed mb-2">{result}</p>
-          <div className="flex justify-center space-x-2 text-cyber-accent-pink">
-
+          <div className="flex animate-pulse justify-center space-x-2 text-cyber-accent-pink">
+            <span>✨</span>
+            <span>🎉</span>
+            <span>✨</span>
           </div>
         </div>
       ) : (
