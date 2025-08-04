@@ -1,8 +1,7 @@
 # Multilingual Number to Word Converter
 
 A full-stack web application that converts numbers into their word representations, supporting multiple languages. This project features a stunning, animated Cyberpunk-themed frontend built with React and a robust, secure backend API powered by Django.
-
-![Project Screenshot](Screenshot 2025-08-03 022131.png)
+<img width="1914" height="971" alt="Screenshot 2025-08-03 022131" src="https://github.com/user-attachments/assets/a7c05c5f-e27f-4eb5-933e-0f40741e070c" />
 
 ---
 
@@ -23,7 +22,6 @@ A full-stack web application that converts numbers into their word representatio
 |---------------|-------------------------------------------------------------------------|
 | **Frontend**  | React.js, Tailwind CSS, Axios, Lucide React (Icons)                     |
 | **Backend**   | Django, Django REST Framework (implicitly)                              |
-| **Database**  | SQLite (for development)                                                |
 | **Languages** | JavaScript, Python                                                      |
 
 ---
